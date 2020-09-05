@@ -1,0 +1,25 @@
+body{
+    background-color:darksalmon;
+    font-size: 20px;
+}
+
+h1 {
+    margin-top: 20px;
+    font-size: 50px; 
+}
+
+input[type=integer]{
+    height: 28px;
+}
+
+button{
+  background-color:lightgray;
+  border: none;
+  color: black;
+  padding: 8px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+} 
